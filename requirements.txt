@@ -1,0 +1,13 @@
+pandas==1.2.5
+numpy
+plotly==5.1.0
+streamlit==0.87.0
+yfinance
+investpy
+matplotlib
+seaborn
+cufflinks
+fundamentus
+statsmodels
+bokeh
+markdown
